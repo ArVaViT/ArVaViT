@@ -4,7 +4,7 @@
 
 ## 🔥 About Me
 
-I’m **Vadym Arnaut (ArVaViT)** — a driven Computer Science student in the US with a passion for crafting tech that makes a difference. Transitioning from hands-on construction to digital innovation, I’m building tools that matter and setting my sights on cybersecurity to create a safer, smarter world.
+I’m **Vadym Arnaut (ArVaViT)** — a driven Computer Science student with a passion for crafting tech that makes a difference. Transitioning from hands-on construction to digital innovation, I’m building tools that matter and setting my sights on cybersecurity to create a safer, smarter world.
 
 ---
 
